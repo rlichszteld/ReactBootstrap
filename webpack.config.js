@@ -23,6 +23,7 @@ module.exports = {
     colors: true,
     progress: true,
     historyApiFallback: true,
-    contentBase: './'
+    contentBase: './',
+    port: 9999
   }
 };
